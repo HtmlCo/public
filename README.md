@@ -12,7 +12,7 @@ Contributing Pioneers: Dr. Floyd,  Dr. Galbreath, Dr. Tecto, Dr. Courtney, Dr. V
 Corporate: Renegade Biz Corp., Imaging Partners, Landing Gear & Guidance.
 
 
-## Regaltos Band Only:
+## Regaltos Band Only (Ignore):
 - Do you have a Music Room in your home? 
 - What is in your music room?  (💙)
 - Post a photo of a costume / style you wear on stage as a singer in the band.
