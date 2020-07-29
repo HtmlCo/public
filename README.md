@@ -1,5 +1,5 @@
 ## SwapSolver 
-- [Dave July Julio]( https://mobile.twitter.com/DJJ_5K) - Dave has over 5 years of experience, prior to this, he was the of Inventor of The Mind Machine Complex, bringing Professors their world At-Home. Prior to inventing the MMI, Dave was an early contributor to programs at [GaTech.edu]( https://cyber.gatech.edu/)  . 
+[Dave July Julio]( https://mobile.twitter.com/DJJ_5K) - Dave has over 5 years of experience, prior to this, he was the of Inventor of The Mind Machine Complex, bringing Professors their world At-Home. Prior to inventing the MMI, Dave was an early contributor to programs at [GaTech.edu]( https://cyber.gatech.edu/)  . 
 
 [mt5g - MT5 Code Library](https://github.com/mt5g/public) mt5g github repository.
 
