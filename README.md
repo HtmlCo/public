@@ -1,7 +1,7 @@
 ## MT5 
 [mt5g - MT5 Code Library](https://github.com/mt5g/public) mt5g github repository
 
-[Dave R. Burdell - MT5 Support]( https://mobile.twitter.com/DJJ_5K) - Dave has over 5 years of experience, prior to this, he was the of Inventor of The Mind Machine Complex, bringing Professors their world At-Home. Prior to inventing the MMI, Dave was an early contributor to programs at [GaTech.edu]( https://cyber.gatech.edu/)  . 
+[Dave J. Burdell - MT5 Support]( https://mobile.twitter.com/DJJ_5K) - Dave has over 5 years of experience, prior to this, he was the of Inventor of The Mind Machine Complex, bringing Professors their world At-Home. Prior to inventing the MMI, Dave was an early contributor to programs at [GaTech.edu]( https://cyber.gatech.edu/)  . 
 
 [MT5 Profile](https://mastodon.online/web/statuses/104551921934380849) Profile of MT5 Trainer Dave Codeberg.
 
