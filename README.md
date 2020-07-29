@@ -22,7 +22,9 @@
 - Post a photo of a costume / style you wear on stage as a singer in the band.
 - Gig: Band Practice Friday Noon: Sportsmans Lodge.
 - Saturday: Fat Cats 1030PM
-- Sunday at Cagnes Park: Yacc:The Juke Box,  August 2020. 
+- Sunday at the Tigers Gym, Park: "Regaltos",  August 2020. 
+
+
 
 
 
