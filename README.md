@@ -8,7 +8,7 @@
 [Recruiting: Economist with International Banking Experience](https://twitter.com/FGDance_/media) - Recruiting - Economist with International Banking Experience, Contact: https://twitter.com/FGDance_/media
 
 ## Renegade Docs:
-Contributing Pioneers: Dr. Floyd,  Dr. Galbreath, Dr. Tecto, Dr. Courtney, Dr. Venus, Dr. Grodin, Drs Anonymous.
+Contributing Pioneers: Dr. Floyd,  Dr. Galbreath, Dr. Tecto, Dr. Courtney, Dr. Venus, Dr. Groan, Drs Anonymous.
 Corporate: Renegade Biz Corp., Imaging Partners, Landing Gear & Guidance.
 
 
