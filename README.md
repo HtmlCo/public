@@ -1,12 +1,6 @@
 ## SwapSolver 
 - [Dave July Julio]( https://mobile.twitter.com/DJJ_5K) - Dave has over 5 years of experience, prior to this, he was the of Inventor of The Mind Machine Complex, bringing Professors their world At-Home. Prior to inventing the MMI, Dave was an early contributor to programs at [GaTech.edu]( https://cyber.gatech.edu/)  . 
 
-## FIXING ANDROID PHONE ISSUES 
-[SwapSolver](https://github.com/mt5g/public/blob/master/Swap-Solver-MQ5-SwapLibrary) - SwapSolver - previously know as SwapSpitter in MT4, this MQL5 Program Calculates the Swap charge for all Forex symbols and provides a SwapSpit Report, daily.
-
-## FIXING ANDROID PHONE ISSUES 
-[SwapSolver](https://github.com/mt5g/public/blob/master/Swap-Solver-MQ5-SwapLibrary) - SwapSolver - previously know as SwapSpitter in MT4, this MQL5 Program Calculates the Swap charge for all Forex symbols and provides a SwapSpit Report, daily.
-
 [mt5g - MT5 Code Library](https://github.com/mt5g/public) mt5g github repository.
 
 [MT5 Profile](https://mastodon.online/web/statuses/104551921934380849) Profile of MT5 Trainer Dave Codeberg.
