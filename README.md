@@ -12,6 +12,9 @@ Contributing Pioneers: Dr. Floyd,  Dr. Galbreath, Dr. Tecto, Dr. Courtney, Dr. V
 Corporate: Renegade Biz Corp., Imaging Partners, Landing Gear & Guidance.
 
 
+<img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="StrawberrysRecipes:ThisOneSweetheart:NonToxic:LeftField:Questions:Is Motster NonToxic">
+
+
 ## Regaltos Band Only (Ignore):
 - Do you have a Music Room in your home? 
 - What is in your music room?  (💙)
