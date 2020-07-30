@@ -19,19 +19,20 @@
 ## BRA Band Only (Ignore)
 SETLIST: 8/2
 - The Other One Better
-- Have you Ever: Squashed Diffs
-- Have you ever: MMORPG 
-- Sweet Mess 
+- Squashed Diffs : If you had to do it with your hands
+- Have You Ever: MMORPG 
+
 - Elvis Stojko: DFTL
 - Fans Favorite: Showroom or Stage
 - Jane Says
 - DTM
+- Sweet Mess 
 - My Girl
 - Encore: Just Go
 - Saturday: Fat Cats 1030PM
-- Sunday at the Tigers Gym, Park: Regaltos,  August 2020. 
+- Gig: Sunday at the Tigers Gym, Park: Regaltos, August 2020. 
 
-
+- Disclaimer on page 43
 
 
 
