@@ -18,7 +18,7 @@
 
 ## TBT Band Only (Ignore)
 SETLIST: 8/2
-- The Sweetest Messages  
+- Sweet Messes  
 - Randy and Puck
 - Annie Fai-Fanie
 - DTM
