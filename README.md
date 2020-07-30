@@ -20,7 +20,8 @@
 SETLIST: 8/2
 - Sweet Mess 
 - Rand Tucky
-- Fai-Fanie Fort
+- Fans Favorite: Month
+- Have you ever: Roller Derby 
 - DTM
 - Saturday: Fat Cats 1030PM
 - Sunday at the Tigers Gym, Park: Regaltos,  August 2020. 
