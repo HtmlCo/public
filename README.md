@@ -19,7 +19,7 @@
 ## TBT Band Only (Ignore)
 SETLIST: 8/2
 - Sweet Mess 
-- Randall Pucks
+- Randall Puck
 - Annie Fai-Fanie
 - DTM
 - Saturday: Fat Cats 1030PM
