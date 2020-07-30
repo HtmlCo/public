@@ -20,7 +20,7 @@
 SETLIST: 8/2
 - Sweet Mess 
 - Randall Puck
-- Annie Fai-Fanie
+- Fai-Fanie Fort
 - DTM
 - Saturday: Fat Cats 1030PM
 - Sunday at the Tigers Gym, Park: Regaltos,  August 2020. 
