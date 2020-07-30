@@ -18,7 +18,7 @@
 
 ## TBT Band Only (Ignore)
 SETLIST: 8/2
-- Sweet Messes  
+- Sweet Mess 
 - Randy and Puck
 - Annie Fai-Fanie
 - DTM
