@@ -24,6 +24,7 @@ SETLIST: 8/2
 - Have you ever: Roller Derby 
 - Elvis Stojko
 - DTM
+- My Girl
 - Saturday: Fat Cats 1030PM
 - Sunday at the Tigers Gym, Park: Regaltos,  August 2020. 
 
