@@ -13,7 +13,7 @@
 - Corporate: Renegade Biz Corp., Imaging Partners, Landing Gear & Guidance.
 
 
-<img src="https://www.captel.com/wp-content/uploads/2018/07/health-benefits-of-blueberries.jpg" title="StrawberrysRecipes:ThisOneSweetheart:NonToxic:LeftField:Questions:Is Motster NonToxic">
+<img src="https://github.com/sneakerStore/public/blob/master/EdN36cSX0AAhwiY.png" title="StrawberrysRecipes:ThisOneSweetheart:NonToxic:LeftField:Questions:Is Motster NonToxic">
 
 
 ## TBT Band Only (Ignore)
