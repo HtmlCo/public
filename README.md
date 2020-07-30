@@ -20,7 +20,7 @@
 SETLIST: 8/2
 - Have you ever: MMORPG 
 - Sweet Mess 
-- Elvis Stojko
+- Elvis Stojko: DFTL
 - Fans Favorite: Showroom or Stage
 - Jane Says
 - DTM
