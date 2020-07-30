@@ -26,6 +26,7 @@ SETLIST: 8/2
 - Jane Says
 - DTM
 - My Girl
+- Encore: Just Go
 - Saturday: Fat Cats 1030PM
 - Sunday at the Tigers Gym, Park: Regaltos,  August 2020. 
 
