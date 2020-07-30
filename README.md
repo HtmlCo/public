@@ -26,9 +26,10 @@ SETLIST: 8/2
 - Fans Favorite: Showroom or Stage
 - Jane Says
 - DTM
-- Sweet Mess 
 - My Girl
-- Encore: I only have chocolate.
+- I only have chocolate.
+- Sweet Mess
+- Send Your Love
 - Saturday: Fat Cats 1030PM
 - Gig: Sunday at the Tigers Gym, Park: Regaltos, August 2020. 
 
