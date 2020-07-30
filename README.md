@@ -18,10 +18,10 @@
 
 ## TBT Band Only (Ignore)
 SETLIST: 8/2
+- Have you ever: MMORPG 
 - Sweet Mess 
 - Elvis Stojko
 - Fans Favorite: Restaurant
-- Have you ever: MMORPG 
 - Jane Says
 - DTM
 - My Girl
