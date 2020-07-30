@@ -21,7 +21,7 @@ SETLIST: 8/2
 - Have you ever: MMORPG 
 - Sweet Mess 
 - Elvis Stojko
-- Fans Favorite: Restaurant
+- Fans Favorite: Showroom or Stage
 - Jane Says
 - DTM
 - My Girl
