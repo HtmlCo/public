@@ -16,11 +16,8 @@
 <img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="StrawberrysRecipes:ThisOneSweetheart:NonToxic:LeftField:Questions:Is Motster NonToxic">
 
 
-## Regaltos Band Only (Ignore):
-- Do you have a Music Room in your home? 
-- What is in your music room?  (💙)
-- Post a photo of a costume / style you wear on stage as a singer in the band.
-- Gig: Band Practice Friday Noon: Sportsmans Lodge.
+## TBT Band Only (Ignore):
+- DTM
 - Saturday: Fat Cats 1030PM
 - Sunday at the Tigers Gym, Park: "Regaltos",  August 2020. 
 
