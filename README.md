@@ -17,7 +17,7 @@
 
 
 ## TBT Band Only (Ignore)
-- DTM?
+- DTM
 - Saturday: Fat Cats 1030PM
 - Sunday at the Tigers Gym, Park: "Regaltos",  August 2020. 
 
