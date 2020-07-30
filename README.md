@@ -19,6 +19,7 @@
 ## BRA Band Only (Ignore)
 SETLIST: 8/2
 - The Other One Better
+- Have you Ever: Squashed Diffs
 - Have you ever: MMORPG 
 - Sweet Mess 
 - Elvis Stojko: DFTL
