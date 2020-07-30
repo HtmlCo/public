@@ -20,9 +20,10 @@
 SETLIST: 8/2
 - Sweet Mess 
 - Rand Tucky
+- Elvis Stojko
 - Fans Favorite: Month
 - Have you ever: MMORPG 
-- Elvis Stojko
+- Jane Says
 - DTM
 - My Girl
 - Saturday: Fat Cats 1030PM
