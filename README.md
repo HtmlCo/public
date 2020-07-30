@@ -19,8 +19,8 @@
 ## TBT Band Only (Ignore)
 SETLIST: 8/2
 - The Sweetest Messages  
-- DTM
 - Annie Fai Fanie
+- DTM
 - Saturday: Fat Cats 1030PM
 - Sunday at the Tigers Gym, Park: "Regaltos",  August 2020. 
 
