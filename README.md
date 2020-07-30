@@ -21,7 +21,7 @@ SETLIST: 8/2
 - Sweet Mess 
 - Rand Tucky
 - Fans Favorite: Month
-- Have you ever: Roller Derby 
+- Have you ever: MMORPG 
 - Elvis Stojko
 - DTM
 - My Girl
