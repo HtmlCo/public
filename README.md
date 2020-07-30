@@ -28,7 +28,7 @@ SETLIST: 8/2
 - DTM
 - Sweet Mess 
 - My Girl
-- Encore: Just Go
+- Encore: I only have chocolate.
 - Saturday: Fat Cats 1030PM
 - Gig: Sunday at the Tigers Gym, Park: Regaltos, August 2020. 
 
