@@ -22,7 +22,7 @@ SETLIST: 8/2
 - Annie Fai Fanie
 - DTM
 - Saturday: Fat Cats 1030PM
-- Sunday at the Tigers Gym, Park: "Regaltos",  August 2020. 
+- Sunday at the Tigers Gym, Park: Regaltos,  August 2020. 
 
 
 
