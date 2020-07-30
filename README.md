@@ -19,7 +19,7 @@
 ## TBT Band Only (Ignore)
 SETLIST: 8/2
 - Sweet Mess 
-- Randall Tucky
+- Rand Tucky
 - Fai-Fanie Fort
 - DTM
 - Saturday: Fat Cats 1030PM
