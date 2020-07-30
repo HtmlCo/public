@@ -16,7 +16,7 @@
 <img src="https://github.com/sneakerStore/public/blob/master/EdN36cSX0AAhwiY.png" title="StrawberrysRecipes:ThisOneSweetheart:NonToxic:LeftField:Questions:Is Motster NonToxic">
 
 
-## TBT Band Only (Ignore)
+## BRA Band Only (Ignore)
 SETLIST: 8/2
 - Have you ever: MMORPG 
 - Sweet Mess 
