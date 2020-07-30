@@ -19,9 +19,8 @@
 ## TBT Band Only (Ignore)
 SETLIST: 8/2
 - Sweet Mess 
-- Rand Tucky
 - Elvis Stojko
-- Fans Favorite: Month
+- Fans Favorite: Restaurant
 - Have you ever: MMORPG 
 - Jane Says
 - DTM
