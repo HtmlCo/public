@@ -18,18 +18,7 @@
 
 ## BRA Band Only (Ignore)
 SETLIST: 8/2
-- The Other One Better
-- Squashed Diffs : If you had to do it with your hands
-- Have You Ever: MMORPG 
-
-- Elvis Stojko: DFTL
-- Fans Favorite: Showroom or Stage
-- Jane Says
-- DTM
-- My Girl
-- I only have chocolate.
-- Sweet Mess
-- Send Your Love
+- This
 - Saturday: Fat Cats 1030PM
 - Gig: Sunday at the Tigers Gym, Park: Regaltos, August 2020. 
 
