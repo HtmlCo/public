@@ -21,7 +21,9 @@ SETLIST: 8/2
 - This
 - Saturday: Fat Cats 1030PM
 - Gig: Sunday at the Tigers Gym, Park: Regaltos, August 2020. 
-
+- Hey
+- I Love all the Toes
+- U B Best
 - Disclaimer on page 43
 
 
